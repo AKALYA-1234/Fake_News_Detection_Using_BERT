@@ -125,5 +125,4 @@ Deploy as a REST API using FastAPI
 
 <img width="1867" height="527" alt="image" src="https://github.com/user-attachments/assets/4c8e8d53-d9b7-44ed-9c35-2f53ccd1f451" />
 
-
 ----
