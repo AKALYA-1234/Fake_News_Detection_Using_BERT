@@ -1,11 +1,11 @@
 # 📰 Fake News Detection using BERT
 
 This project uses a **BERT-based model** to classify news articles as **Fake** or **Real**.  
-The model is fine-tuned on the [Kaggle Fake News dataset][(https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)](https://huggingface.co/spaces/AKALYAS/Fake_news_detection) and deployed with a **Gradio interface** for easy interaction.
+The model is fine-tuned on the [Kaggle Fake News dataset]https://www.kaggle.com/datasets and deployed with a **Gradio interface** for easy interaction.
 
 ---
 
-🖼️ Demo app linkv: https://huggingface.co/spaces/AKALYAS/Fake_news_detectio_BERT
+🖼️ Demo app linkv: [https://huggingface.co/spaces/AKALYAS/Fake_news_detectio_BERT](https://huggingface.co/spaces/AKALYAS/CNN_Task?logs=container)
 
 ---
 
