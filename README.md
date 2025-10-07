@@ -5,7 +5,7 @@ The model is fine-tuned on the [Kaggle Fake News dataset]https://www.kaggle.com/
 
 ---
 
-🖼️ Demo app link : [[https://huggingface.co/spaces/AKALYAS/Fake_news_detectio_BERT](https://huggingface.co/spaces/AKALYAS/CNN_Task?logs=container)](https://huggingface.co/spaces/AKALYAS/Fake_news_detection)
+🖼️ Demo app link : https://huggingface.co/spaces/AKALYAS/Fake_news_detection
 
 ---
 
