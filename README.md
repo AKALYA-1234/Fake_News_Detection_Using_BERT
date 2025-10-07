@@ -123,6 +123,6 @@ Deploy as a REST API using FastAPI
 
 🖼️ Demo app :
 
-<img width="1867" height="527" alt="image" src="https://github.com/user-attachments/assets/4c8e8d53-d9b7-44ed-9c35-2f53ccd1f451" />
+<img width="1867" height="527" alt="Screenshot 2025-10-03 220721" src="https://github.com/user-attachments/assets/3feee073-b3db-4633-afaf-8550f4c642e4" />
 
 ----
